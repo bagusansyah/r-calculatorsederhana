@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-kalkulatorsederhana/static/css/main.bb7376cb.css",
+    "main.js": "/react-kalkulatorsederhana/static/js/main.d2f858cd.js",
+    "static/js/453.36d5aa10.chunk.js": "/react-kalkulatorsederhana/static/js/453.36d5aa10.chunk.js",
+    "index.html": "/react-kalkulatorsederhana/index.html",
+    "main.bb7376cb.css.map": "/react-kalkulatorsederhana/static/css/main.bb7376cb.css.map",
+    "main.d2f858cd.js.map": "/react-kalkulatorsederhana/static/js/main.d2f858cd.js.map",
+    "453.36d5aa10.chunk.js.map": "/react-kalkulatorsederhana/static/js/453.36d5aa10.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb7376cb.css",
+    "static/js/main.d2f858cd.js"
+  ]
+}
